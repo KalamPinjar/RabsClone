@@ -49,7 +49,7 @@ const Navbar = () => {
         </div>
         <a href="/" className="btn btn-ghost text-xl">
           <img
-            src="../../images/logo.png"
+            src="../../images/imagecompressor/logo.png"
             alt="logo"
             height={"150px"}
             width={"150px"}

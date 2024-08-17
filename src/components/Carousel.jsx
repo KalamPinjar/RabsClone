@@ -45,7 +45,7 @@ const Carousel = () => {
                 <h2>Finance</h2>
                 <img
                   className="w-10 h-10 "
-                  src="/images/work1icon.png"
+                  src="/images/imagecompressor/work1icon-min.png"
                   alt="work1"
                 />
                 <p>
@@ -67,7 +67,7 @@ const Carousel = () => {
                 <h2>Real Estate</h2>
                 <img
                   className="w-10 h-10 "
-                  src="/images/work2icon.png"
+                  src="/images/imagecompressor/work2icon-min.png"
                   alt="work1"
                 />
                 <p>
@@ -89,7 +89,7 @@ const Carousel = () => {
                 <h2>Technology</h2>
                 <img
                   className="w-10 h-10 "
-                  src="/images/work3icon.png"
+                  src="/images/imagecompressor/work3icon-min.png"
                   alt="work1"
                 />
                 <p>
@@ -111,7 +111,7 @@ const Carousel = () => {
                 <h2>Food Industry</h2>
                 <img
                   className="w-10 h-10 "
-                  src="/images/work4icon.png"
+                  src="/images/imagecompressor/work4icon-min.png"
                   alt="work1"
                 />
                 <p>
@@ -133,7 +133,7 @@ const Carousel = () => {
                 <h2>Telecomunications</h2>
                 <img
                   className="w-10 h-10 "
-                  src="/images/work5icon.png"
+                  src="/images/imagecompressor/work5icon-min.png"
                   alt="work1"
                 />
                 <p>
@@ -155,7 +155,7 @@ const Carousel = () => {
                 <h2>Slide 06</h2>
                 <img
                   className="w-10 h-10 "
-                  src="/images/work6icon.png"
+                  src="/images/imagecompressor/work6icon-min.png"
                   alt="work1"
                 />
                 <p>

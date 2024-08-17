@@ -76,7 +76,8 @@ body {
 
 
 .home {
-    background-image: url('../images/magicpattern-grid-pattern.png');
+    background: rgba(0, 0, 75, 0.925);
+    background-image: url('../images/imagecompressor/magicpattern-grid-pattern-min.png');
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
@@ -474,7 +475,7 @@ body {
 
 .likes,
 .likes1 {
-    background-image: url('../images/like3d.png');
+    background-image: url('../images/imagecompressor/like3d.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -489,7 +490,7 @@ body {
 
 .hearts,
 .hearts1 {
-    background-image: url('../images/heart3d.png');
+    background-image: url('../images/imagecompressor/heart3d.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

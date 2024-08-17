@@ -63,7 +63,7 @@ const Services = () => {
           >
             <img
               className="w-10 h-10"
-              src="../../images/servies1icon.jpg"
+              src="../../images/imagecompressor/servies1icon-min.jpg"
               alt="ux"
             />
             <p className=" text-sm font-bold text-black w-[300px]">
@@ -74,7 +74,7 @@ const Services = () => {
           </div>
           <div
             ref={containerRight}
-            className="flex justify-center items-center  bg-[url(../../images/servies1.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
+            className="flex justify-center items-center  bg-[url(../../images/imagecompressor/servies1-min.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
           >
             <div
               style={{
@@ -101,7 +101,7 @@ const Services = () => {
           >
             <img
               className="w-10 h-10"
-              src="../../images/servies2icon.png"
+              src="../../images/imagecompressor/servies2icon-min.png"
               alt="ux"
             />
             <p className=" text-sm font-bold text-black w-[300px]">
@@ -112,7 +112,7 @@ const Services = () => {
           </div>
           <div
             ref={containerRight}
-            className="flex justify-center items-center  bg-[url(../../images/servies2.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
+            className="flex justify-center items-center  bg-[url(../../images/imagecompressor/servies2-min.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
           >
             <div
               style={{
@@ -139,7 +139,7 @@ const Services = () => {
           >
             <img
               className="w-10 h-10"
-              src="../../images/servies3icon.png"
+              src="../../images/imagecompressor/servies3icon-min.png"
               alt="ux"
             />
             <p className=" text-sm font-bold text-black w-[300px]">
@@ -150,7 +150,7 @@ const Services = () => {
           </div>
           <div
             ref={containerRight}
-            className="flex justify-center items-center  bg-[url(../../images/servies3.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
+            className="flex justify-center items-center  bg-[url(../../images/imagecompressor/servies3-min.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
           >
             <div
               style={{
@@ -177,7 +177,7 @@ const Services = () => {
           >
             <img
               className="w-10 h-10"
-              src="../../images/servies4icon.png"
+              src="../../images/imagecompressor/servies4icon-min.png"
               alt="ux"
             />
             <p className=" text-sm font-bold text-black w-[300px]">
@@ -188,7 +188,7 @@ const Services = () => {
           </div>
           <div
             ref={containerRight}
-            className="flex justify-center items-center  bg-[url(../../images/servies4.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
+            className="flex justify-center items-center  bg-[url(../../images/imagecompressor/servies4-min.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
           >
             <div
               style={{
@@ -215,7 +215,7 @@ const Services = () => {
           >
             <img
               className="w-10 h-10"
-              src="../../images/servies5icon.png"
+              src="../../images/imagecompressor/servies5icon-min.png"
               alt="ux"
             />
             <p className=" text-sm font-bold text-black w-[300px]">
@@ -226,7 +226,7 @@ const Services = () => {
           </div>
           <div
             ref={containerRight}
-            className="flex justify-center items-center  bg-[url(../../images/servies5.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
+            className="flex justify-center items-center  bg-[url(../../images/imagecompressor/servies5-min.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
           >
             <div
               style={{
@@ -253,7 +253,7 @@ const Services = () => {
           >
             <img
               className="w-10 h-10 spin transition-all ease-in-out"
-              src="../../public/images/servies6icon.png"
+              src="../../public/images/imagecompressor/servies6icon-min.png"
               alt="ux"
             />
             <p className=" text-sm font-bold text-black w-[300px]">
@@ -264,7 +264,7 @@ const Services = () => {
           </div>
           <div
             ref={containerRight}
-            className="flex justify-center items-center  bg-[url(../../images/servies6.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
+            className="flex justify-center items-center  bg-[url(../../images/imagecompressor/servies6-min.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
           >
             <div
               style={{
@@ -291,7 +291,7 @@ const Services = () => {
           >
             <img
               className="w-10 h-10"
-              src="../../images/servies7icon.png"
+              src="../../images/imagecompressor/servies7icon-min.png"
               alt="ux"
             />
             <p className=" text-sm font-bold text-black w-[300px]">
@@ -302,7 +302,7 @@ const Services = () => {
           </div>
           <div
             ref={containerRight}
-            className="flex justify-center items-center  bg-[url(../../images/servies7.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
+            className="flex justify-center items-center  bg-[url(../../images/imagecompressor/servies7-min.jpg)] bg-cover bg-center bg-no-repeat bg-blend-multiply card border-2 border-black rounded-3xl p-5 w-[400px] h-full shadow-xl absolute  right-0"
           >
             <div
               style={{
@@ -324,7 +324,7 @@ const Services = () => {
         </div>
       </div>
       <div className="w-1/2 h-1 bg-black mt-5 mb-8 "></div>
-      <img className="arrow" src="../../images/arrow.png" alt="" />
+      <img className="arrow" src="../../images/imagecompressor/arrow-min.png" alt="" />
     </div>
   );
 };

@@ -11,32 +11,32 @@ const Reviews = () => {
       </p>
       <div className=" relative flex gap-2 mt-10 flex-col w-full justify-center items-center">
         <img
-          src="../../images/review1.JPG"
+          src="../../images/imagecompressor/review1-min.JPG"
           alt="review"
           className="relative -right-10 w-[700px] h-[180px] mt-10 mb-2 rounded-3xl shadow-[0_35px_60px_-55px_rgba(0,0,0,0.3)] shadow-black/50"
         />
         <img
-          src="../../images/review2.JPG"
+          src="../../images/imagecompressor/review2-min.JPG"
           alt="review"
           className="relative w-[700px] h-[180px] right-10  mb-2 rounded-3xl shadow-[0_35px_60px_-55px_rgba(0,0,0,0.3)] shadow-black/50"
         />
         <img
-          src="../../images/review3.JPG"
+          src="../../images/imagecompressor/review3-min.JPG"
           alt="review"
           className="relative w-[700px] h-[180px] -right-10  mb-2 rounded-3xl shadow-[0_35px_60px_-55px_rgba(0,0,0,0.3)] shadow-black/50"
         />
         <img
-          src="../../images/review4.JPG"
+          src="../../images/imagecompressor/review4-min.JPG"
           alt="review"
           className="relative w-[700px] h-[180px] right-10 mb-2 rounded-3xl shadow-[0_35px_60px_-55px_rgba(0,0,0,0.3)] shadow-black/50"
         />
         <img
-          src="../../images/review5.JPG"
+          src="../../images/imagecompressor/review5-min.JPG"
           alt="review"
           className="relative w-[700px] h-[180px] -right-10 mb-2 rounded-3xl shadow-[0_35px_60px_-55px_rgba(0,0,0,0.3)] shadow-black/50"
         />
         <img
-          src="../../images/review6.JPG"
+          src="../../images/imagecompressor/review6-min.JPG"
           alt="review"
           className="relative w-[700px] h-[180px] right-10 mb-8 rounded-3xl shadow-[0_35px_60px_-55px_rgba(0,0,0,0.3)] shadow-black/50"
         />
@@ -45,7 +45,7 @@ const Reviews = () => {
       <div className="relative w-10 h-10 hearts"></div>
       <div className="relative w-10 h-10 likes1"></div>
       <div className="relative w-10 h-10 hearts1"></div>
-      <img className="arrow " src="../../images/arrow.png" alt="" />
+      <img className="arrow " src="../../images/imagecompressor/arrow-min.png" alt="" />
     </div>
   );
 };

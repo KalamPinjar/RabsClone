@@ -15,7 +15,7 @@ const Achievements = () => {
         </div>
       </div>
       <div className="mt-2 md:p-32   p-10 md:pt-14 w-full absolute ">
-        <img src="../../images/achivements1.jpg" alt="achivements" />
+        <img src="../../images/imagecompressor/achivements1-min.jpg" alt="achivements" />
         <p className="animate-text text-center bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent md:text-2xl text-xl font-semibold">
           (&#x2764; Receive awards from Honorable Chief minister of goa and the
           governor of sikkim &#x2764;)

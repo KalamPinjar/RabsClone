@@ -11,14 +11,14 @@ const About = () => {
             <div className="card-body justify-center items-center">
               <img
                 className="rounded-full w-24 h-24 "
-                src="../../images/rehan-halai.jpg"
+                src="../../images/imagecompressor/rehan-halai-min.jpg"
                 alt="rehan-halai"
               />
               <h2 className="card-title capitalize">
                 Mr. Rehan Halai{" "}
                 <img
                   className="w-6 h-6"
-                  src="../../images/my-business-icon.png"
+                  src="../../images/imagecompressor/my-business-icon-min.png"
                   alt="verified"
                 />
               </h2>
@@ -37,14 +37,14 @@ const About = () => {
             <div className="card-body justify-center items-center">
               <img
                 className="rounded-full w-24 h-24 "
-                src="../../images/bilal-halai.jpg"
+                src="../../images/imagecompressor/bilal-halai-min.jpg"
                 alt="bilal-halai"
               />
               <h2 className="card-title capitalize">
                 Mr. Bilal Halai{" "}
                 <img
                   className="w-6 h-6"
-                  src="../../images/my-business-icon.png"
+                  src="../../images/imagecompressor/my-business-icon-min.png"
                   alt="verified"
                 />
               </h2>
@@ -62,7 +62,7 @@ const About = () => {
             </div>
           </div>
         </div>
-        <img className="arrow " src="../../images/arrow.png" alt="" />
+        <img className="arrow " src="../../images/imagecompressor/arrow-min.png"alt="" />
       </div>
     </>
   );

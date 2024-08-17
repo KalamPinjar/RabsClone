@@ -16,58 +16,37 @@ const Footer = () => {
                 </h2>
                 <ul className="text-gray-500 dark:text-gray-400 font-medium">
                   <li>
-                    <a
-                      href="https://github.com/themesberg/flowbite"
-                      className="hover:underline"
-                    >
+                    <a href="" className="hover:underline">
                       UI - UX Design
                     </a>
                   </li>
                   <li>
-                    <a
-                      href="https://github.com/themesberg/flowbite"
-                      className="hover:underline"
-                    >
+                    <a href="" className="hover:underline">
                       Wordpress development
                     </a>
                   </li>
                   <li>
-                    <a
-                      href="https://github.com/themesberg/flowbite"
-                      className="hover:underline"
-                    >
+                    <a href="" className="hover:underline">
                       Landing page development
                     </a>
                   </li>
                   <li>
-                    <a
-                      href="https://github.com/themesberg/flowbite"
-                      className="hover:underline"
-                    >
+                    <a href="" className="hover:underline">
                       Portfolio website
                     </a>
                   </li>
                   <li>
-                    <a
-                      href="https://github.com/themesberg/flowbite"
-                      className="hover:underline"
-                    >
+                    <a href="" className="hover:underline">
                       Corporate websites
                     </a>
                   </li>
                   <li>
-                    <a
-                      href="https://github.com/themesberg/flowbite"
-                      className="hover:underline"
-                    >
+                    <a href="" className="hover:underline">
                       Php & React website
                     </a>
                   </li>
                   <li>
-                    <a
-                      href="https://github.com/themesberg/flowbite"
-                      className="hover:underline"
-                    >
+                    <a href="" className="hover:underline">
                       Real estate and developers website
                     </a>
                   </li>
@@ -136,8 +115,8 @@ const Footer = () => {
           <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
           <div className="sm:flex sm:items-center sm:justify-between">
             <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
-            
-              Copyright © {new Date().getFullYear()} RABS Net Solutions Pvt. Ltd. All Rights Reserved
+              Copyright © {new Date().getFullYear()} RABS Net Solutions Pvt.
+              Ltd. All Rights Reserved
             </span>
             <div className="flex mt-4 sm:justify-center sm:mt-0">
               <a

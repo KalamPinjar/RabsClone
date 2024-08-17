@@ -52,7 +52,11 @@ const Home = () => {
         </div>
 
         <div className="w-1/2 h-1 bg-white mt-5 mb-8"></div>
-        <img className="arrow" src="../../images/arrow.png" alt="" />
+        <img
+          className="arrow"
+          src="../../images/imagecompressor/arrow-min.png"
+          alt=""
+        />
       </div>
       <MovingText />
     </>

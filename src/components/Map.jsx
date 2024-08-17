@@ -74,7 +74,7 @@ const Map = () => {
         </div>
         <img
           className="md:w-1/2 w-3/4"
-          src="../../images/India_United_Arab_Emirates_Locator-new.gif"
+          src="../../images/imagecompressor/India_United_Arab_Emirates_Locator-new-min.gif"
           alt=""
         />
       </div>
@@ -93,7 +93,7 @@ const Map = () => {
         <b>&#34;Let&#39;s make website design magic together.&#34;</b>
       </p>
       <div className="w-1/2 h-1 bg-white mb-8 md:block hidden"></div>
-      <img className="arrow" src="../../images/arrow.png" alt="" />
+      <img className="arrow" src="../../images/imagecompressor/arrow.png-min" alt="" />
     </div>
   );
 };
