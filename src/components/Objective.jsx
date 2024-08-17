@@ -1,6 +1,6 @@
 const Objective = () => {
   return (
-    <div className="flex flex-col bg-purple-900 pt-20 justify-start items-center mt-10 min-h-fit w-full">
+    <div className="flex flex-col bg-purple-900 pt-20 justify-start items-center md:mt-10 mt-[90%] min-h-fit w-full">
       <p className="md:text-5xl text-2xl leading-tight tracking-wide  text-center text-pretty w-[900px]">
         Our Client-Centric Approach to
         <br />{" "}

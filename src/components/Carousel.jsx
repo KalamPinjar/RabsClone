@@ -146,13 +146,13 @@ const Carousel = () => {
             <div
               className="img slides"
               style={{
-                backgroundImage: "url('/images/work6.webp')",
+                backgroundImage: "url('/images/imagecompressor/work6.webp')",
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
             >
               <div className="content">
-                <h2>Slide 06</h2>
+                <h2>Education Technology</h2>
                 <img
                   className="w-10 h-10 "
                   src="/images/imagecompressor/work6icon-min.png"

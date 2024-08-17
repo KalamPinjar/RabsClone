@@ -23,7 +23,7 @@ const Home = () => {
   }, [container]);
   return (
     <>
-      <div className="home pt-16">
+      <div className="home pt-16" id="home">
         <button className="btn border-none mb-5 rounded-none button text-white font-bold capitalize text-3xl ">
           Let&#39;s discuss your project
         </button>

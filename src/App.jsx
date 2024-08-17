@@ -10,11 +10,9 @@ import Objective from "./components/Objective";
 import Reviews from "./components/Reviews";
 import Services from "./components/Services";
 
-
 const App = () => {
   return (
     <>
-
       <Navbar />
       <Home />
       <Map />
@@ -25,6 +23,7 @@ const App = () => {
       <Reviews />
       <About />
       <Faq />
+    
       <Footer />
     </>
   );
