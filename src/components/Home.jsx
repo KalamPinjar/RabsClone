@@ -2,6 +2,7 @@ import MovingText from "./ui/MovingText";
 import { useRef } from "react";
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
+import ActionIcon from "./ui/ActionIcon";
 gsap.registerPlugin(useGSAP);
 
 const Home = () => {
@@ -59,6 +60,16 @@ const Home = () => {
         />
       </div>
       <MovingText />
+      <ActionIcon
+        className={"bg-white bottom-28"}
+        icon="../../images/whatsapp.png"
+        action={() => window.open("https://wa.me/919833636916", "_blank")}
+      />
+      <ActionIcon
+        className={"bg-white "}
+        icon="../../images/phoneicon.png"
+        action={() => window.open("tel:+91 9833636916", "_blank")}
+      />
     </>
   );
 };
