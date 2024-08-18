@@ -17,7 +17,7 @@ const Input = ({
       {label && (
         <label
           htmlFor={idLabel}
-          className={`label label-text-alt text-primary ${labelClassName}`}
+          className={`font-semibold label label-text-alt text-primary ${labelClassName}`}
         >
           {label}
         </label>
@@ -32,7 +32,7 @@ const Input = ({
         id={id}
         type={type}
         required
-        className={`input input-bordered w-full max-w-xs ${props.className}`}
+        className={`input bg-black/10 input-bordered w-full max-w-xs ${props.className}`}
       />
     </>
   );

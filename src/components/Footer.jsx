@@ -82,7 +82,7 @@ const Footer = () => {
               </div>
               <div>
                 <h2 className="mb-6 text-2xl underline underline-offset-8 font-semibold text-gray-900 uppercase dark:text-white">
-                  Newsletter
+                  Contact Us
                 </h2>
                 <ul className="text-gray-500 dark:text-gray-400 font-medium">
                   <li className="mb-4 flex flex-col space-y-2 ">

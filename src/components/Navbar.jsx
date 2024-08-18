@@ -1,4 +1,6 @@
 import { NavLink, Outlet } from "react-router-dom";
+import Modal from "./ui/Modal";
+import Input from "./ui/Input";
 
 const Navbar = () => {
   return (
@@ -98,21 +100,49 @@ const Navbar = () => {
               src="../../images/phone.png"
               alt="phone"
             />
-            <div className=" circles">
+            <div className="circles">
               <div className="circle1"></div>
               <div className="circle2"></div>
               <div className="circle3"></div>
             </div>
-            <NavLink
-              className="btn button z-10 btn-primary"
-              href="tel:+91 98336 36916"
-            >
-              Let’s Talk +91 98336 36916
+            <NavLink>
+              <Modal className="bg-white">
+                <form onSubmit={(e) => e.preventDefault()} method={"POST"} className="flex flex-col gap-5">
+                  <Input
+                    type={"email"}
+                    name={"email"}
+                    placeholder={"Email"}
+                    label={"Email"}
+                  />
+                  <Input
+                    type={"phone"}
+                    name={"phone"}
+                    placeholder={"Phone"}
+                    maxLength={10}
+                    minLength={10}
+                    pattern="[0-9]{10}"
+                    label={"Phone"}
+                  />
+                  <label className="text-blue-600 text-sm">Message</label>
+                  <textarea
+                    name="message"
+                    id="message"
+                    cols="30"
+                    rows="10"
+                    placeholder="Message"
+                    className="textarea bg-black/10 textarea-bordered h-24"
+                    required
+                  ></textarea>
+                  <button type="submit" className="btn btn-primary">
+                    Submit
+                  </button>
+                </form>
+              </Modal>
             </NavLink>
           </div>
         </div>
       </div>
-
+      <Outlet />
     </>
   );
 };

@@ -61,12 +61,12 @@ const Home = () => {
       </div>
       <MovingText />
       <ActionIcon
-        className={"bg-white bottom-28"}
+        className={"bg-white border-none bottom-32 animate-pulse"}
         icon="../../images/whatsapp.png"
         action={() => window.open("https://wa.me/919833636916", "_blank")}
       />
       <ActionIcon
-        className={"bg-white "}
+        className={"bg-white border-none bottom-10 animate-pulse"}
         icon="../../images/phoneicon.png"
         action={() => window.open("tel:+91 9833636916", "_blank")}
       />

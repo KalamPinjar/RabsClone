@@ -11,7 +11,6 @@ import Reviews from "./components/Reviews";
 import Services from "./components/Services";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import ErrorPage from "./components/ErrorPage";
-import Home from "./components/Home";
 import TestApi from "./components/TestApi";
 
 const router = createBrowserRouter([
@@ -20,10 +19,7 @@ const router = createBrowserRouter([
     element: <App />,
     errorElement: <ErrorPage />,
     children: [
-      {
-        index: true,
-        element: <Home />,
-      },
+      
       {
         path: "/overview",
         element: <Map />,

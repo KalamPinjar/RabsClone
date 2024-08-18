@@ -1,6 +1,6 @@
 const Reviews = () => {
   return (
-    <div className="p-10 bg-[#f1fbfc] overflow-hidden flex flex-col justify-start items-center w-full min-h-fit mt-20 mb-10">
+    <div className="p-10 bg-[#f1fbfc] overflow-hidden flex flex-col justify-start items-center w-full min-h-fit md:mt-20 mt-0 mb-10">
       <h2 className="md:text-5xl  text-3xl mt-20  text-black">
         Praise for <span className="font-bold">Precision</span> and{" "}
         <span className="font-bold">Performance</span>
